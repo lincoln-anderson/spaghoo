@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @spaghoo
+- 👀 I’m interested in app development using SwiftUI and other apple frameworks.
+- 🌱 I’m currently learning Javascript and typescript as well as full stack web development worik. continued learning of swiftUI and app development concepts as large.
+- 📫 How to reach me Lincolnanderson@me.com
